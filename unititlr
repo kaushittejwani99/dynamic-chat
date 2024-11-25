@@ -1,0 +1,10 @@
+// 		$('#group-message').val("");
+		// 		const chat = data.message.message;
+		// 		const html = `<div class="group-user-chat" id="${data.message._id}">
+		// 						<h5><span>${chat}</span>
+		// 							<i class="fa fa-trash" aria-hidden="true" data-id="${data.message._id}" data-msg="${chat}" data-toggle="modal" data-target="#deleteChatModel"></i>
+		// 							<i class="fa fa-edit" aria-hidden="true" data-id="${data.message._id}" data-msg="${chat}" data-toggle="modal" data-target="#updateChatModel"></i>
+		// 						</h5>
+		// 					</div>`;
+		// 		$('#group-chat-container').append(html);
+		// 		socket.emit("newChat", data.message);
